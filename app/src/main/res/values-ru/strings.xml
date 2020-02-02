@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="add_usr_name">Имя</string>
+    <string name="toppings">Добавки</string>
+    <string name="whipped_cream" translatable="false">Взбитые сливки</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="quantity">Количество</string>
+    <string name="order_summary">Сума заказа</string>
+    <string name="order_button">Заказать</string>
+</resources>
